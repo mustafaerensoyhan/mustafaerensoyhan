@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Mustafa Eren Soyhan 👋
 
-<!--
-**mustafaerensoyhan/mustafaerensoyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical & Computer Engineering MASc student** and **Graduate Research Assistant** at Ontario Tech University. I work at the intersection of **IoT, machine learning, and applied AI** — turning real-world sensor and image data into systems that make useful decisions.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-eren-soyhan-0b9205223/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.soyhan@ontariotechu.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🧠 Focused on **machine learning, NLP, and computer vision**
+- 🎓 MASc @ **Ontario Tech University** · BSc Computer Engineering @ **MEF University**
+- 📍 Currently based in **Oshawa, ON 🇨🇦** and **Istanbul, TR 🇹🇷**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Machine Learning & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| [🩺 spark-icu-monitor](https://github.com/mustafaerensoyhan/spark-icu-monitor) | Real-time **Spark Structured Streaming** pipeline that detects sustained abnormal heart rates across ICU patient streams using tumbling windows, watermarks, and alerting. |
+| [🔬 uncertainty-tta-medmnist](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) | Uncertainty-aware **test-time adaptation** for medical image classification on the MedMNIST benchmark. |
+| [🧠 mental-palace-chatbot](https://github.com/mustafaerensoyhan/mental-palace-chatbot) | Persona-driven **AI mental-health companion** built with LangChain, Google Gemini, and Streamlit. |
+| [📊 breast-cancer-clustering-and-classification](https://github.com/mustafaerensoyhan/breast-cancer-clustering-and-classification) | Clustering and classification of breast-cancer data — a Business Intelligence course project. |
+| [🏨 Hotel-Management-ERP](https://github.com/mustafaerensoyhan/Hotel-Management-ERP-Project-) | An ERP system for hotel management, built in Python. |
+
+---
+
+### 📄 Publications
+
+> **M. E. Soyhan**, T. B. Ay, et al. *"A Multimodal AI and ML Framework for Fashion Image Segmentation, Recommendation, and Similarity Recognition."* 2025 10th International Conference on Computer Science and Engineering (UBMK), Sept. 2025. DOI: [10.1109/UBMK67458.2025.11206866](https://doi.org/10.1109/UBMK67458.2025.11206866)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafaerensoyhan&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaerensoyhan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+<p align="center"><i>Open to research collaborations and engineering roles in ML, IoT, and applied AI.</i></p>
