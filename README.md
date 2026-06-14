@@ -3,7 +3,6 @@
 **Electrical & Computer Engineering MASc student** and **Graduate Research Assistant** at Ontario Tech University. I work at the intersection of **IoT, machine learning, and applied AI** — turning real-world sensor and image data into systems that make useful decisions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-eren-soyhan-0b9205223/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.soyhan@ontariotechu.net)
 
 ---
 
@@ -35,6 +34,7 @@
 **Cloud & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -45,10 +45,10 @@
 | Project | Description |
 | :--- | :--- |
 | [🩺 spark-icu-monitor](https://github.com/mustafaerensoyhan/spark-icu-monitor) | Real-time **Spark Structured Streaming** pipeline that detects sustained abnormal heart rates across ICU patient streams using tumbling windows, watermarks, and alerting. |
-| [🔬 uncertainty-tta-medmnist](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) | Uncertainty-aware **test-time adaptation** for medical image classification on the MedMNIST benchmark. |
-| [🧠 mental-palace-chatbot](https://github.com/mustafaerensoyhan/mental-palace-chatbot) | Persona-driven **AI mental-health companion** built with LangChain, Google Gemini, and Streamlit. |
+| [🏭 smartfactory-iot](https://github.com/mustafaerensoyhan/smartfactory-iot) | **IoT data pipeline** for a smart factory, ingesting sensor data over MQTT and CoAP. |
+| [🚲 realtime-streaming-bikes](https://github.com/mustafaerensoyhan/realtime-streaming-bikes) | Real-time **Kafka streaming pipeline** (Faust + scikit-learn) over live bike-share data. |
+| [🌍 earthquake-damage-assessment-pipeline](https://github.com/mustafaerensoyhan/earthquake-damage-assessment-pipeline) | Research pipeline for **post-earthquake building damage assessment**. |
 | [📊 breast-cancer-clustering-and-classification](https://github.com/mustafaerensoyhan/breast-cancer-clustering-and-classification) | Clustering and classification of breast-cancer data — a Business Intelligence course project. |
-| [🏨 Hotel-Management-ERP](https://github.com/mustafaerensoyhan/Hotel-Management-ERP-Project-) | An ERP system for hotel management, built in Python. |
 
 ---
 
