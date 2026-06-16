@@ -1,12 +1,12 @@
 # Hi, I'm Mustafa Eren Soyhan 👋
 
-**Electrical & Computer Engineering MASc student** and **Graduate Research Assistant** at Ontario Tech University. I work at the intersection of **IoT, machine learning, and applied AI** — turning real-world sensor and image data into systems that make useful decisions.
+**Electrical & Computer Engineering MASc student** and **Graduate Research Assistant** at Ontario Tech University.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-eren-soyhan-0b9205223/)
 
 ---
 
-- 🧠 Focused on **machine learning, NLP, and computer vision**
+- 🧠 Focused on **machine learning, IoT, and computer vision**
 - 🎓 MASc @ **Ontario Tech University** · BSc Computer Engineering @ **MEF University**
 - 📍 Currently based in **Oshawa, ON 🇨🇦** and **Istanbul, TR 🇹🇷**
 
