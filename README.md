@@ -44,11 +44,12 @@
 
 | Project | Description |
 | :--- | :--- |
+| [🩻 uncertainty-tta-medmnist](https://github.com/mustafaerensoyhan/uncertainty-tta-medmnist) | Calibration-focused study of **uncertainty-weighted test-time augmentation** for medical image classification across 6 MedMNIST datasets and 3 backbones; introduces **Augmentation Confidence Strips** and a per-modality selection guide. Submitted to **VMV 2026**. |
 | [🩺 spark-icu-monitor](https://github.com/mustafaerensoyhan/spark-icu-monitor) | Real-time **Spark Structured Streaming** pipeline that detects sustained abnormal heart rates across ICU patient streams using tumbling windows, watermarks, and alerting. |
 | [🏭 smartfactory-iot](https://github.com/mustafaerensoyhan/smartfactory-iot) | **IoT data pipeline** for a smart factory, ingesting sensor data over MQTT and CoAP. |
 | [🚲 realtime-streaming-bikes](https://github.com/mustafaerensoyhan/realtime-streaming-bikes) | Real-time **Kafka streaming pipeline** (Faust + scikit-learn) over live bike-share data. |
 | [🌍 earthquake-damage-assessment-pipeline](https://github.com/mustafaerensoyhan/earthquake-damage-assessment-pipeline) | Research pipeline for **post-earthquake building damage assessment**. |
-| [📊 breast-cancer-clustering-and-classification](https://github.com/mustafaerensoyhan/breast-cancer-clustering-and-classification) | Clustering and classification of breast-cancer data — a Business Intelligence course project. |
+| [📊 breast-cancer-clustering-and-classification](https://github.com/mustafaerensoyhan/breast-cancer-clustering-and-classification) | Clustering and classification of breast-cancer data, a Business Intelligence course project. |
 
 ---
 
